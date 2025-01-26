@@ -1,0 +1,60 @@
+#header{
+    color: white;
+    background-color: brown;
+}
+#logo{
+    font-size: 2rem;
+    margin-top: 5px;
+}
+#menu{
+    
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    justify-self: flex-end;
+   
+    
+
+}
+#menu li{
+    display: inline-block;
+    
+    
+    
+    
+    
+    
+}
+#menu li a{
+    color: white;
+    display: block;
+    padding: 15px 10px;
+    text-decoration: none;
+    
+    
+    
+    
+    
+}
+#menu li a:hover{
+    background-color: indianred;;
+}
+#banner{
+    background:url("photo-1448697138198-9aa6d0d84bf4.avif")no-repeat 0,0;
+    background-size:cover;
+}
+.banner-title{
+    padding-top: 5rem;
+}
+.banner-title h1{
+    background:rgba(255, 255, 255, 0.8);
+    display: inline-block;
+    padding: 10px;
+    margin: 0;
+
+}
+.banner-title p.lead{
+    color:#fff;
+    background: rgba(231, 76, 60, 0.7);
+    padding: 10px;
+}
